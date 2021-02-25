@@ -28,7 +28,7 @@ public void draw()
 
 public boolean isPrime(double dNum)  
 {   
-    //your code here
+    
     if(dNum < 3){
       return false;
     }
